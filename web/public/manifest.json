@@ -1,0 +1,26 @@
+{
+  "name": "PocketDex",
+  "short_name": "PocketDex",
+  "description": "Codex companion for threads and live runs",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#0d0e10",
+  "background_color": "#0d0e10",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png?v=20260207-01",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png?v=20260207-01",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
